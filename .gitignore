@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+*.xcworkspace/
+*.xcodeproj/
+*.swift
+*.m
+*.h
+*.js
+*.mjs
+*.json
+*.plist
+
