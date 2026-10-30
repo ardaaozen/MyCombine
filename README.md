@@ -1,4 +1,4 @@
-![MyCombine](assets/mycombine-hero.png)
+![MyCombine](assets/premium-cover.svg)
 
 <h1 align="center">MyCombine</h1>
 
